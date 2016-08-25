@@ -43,7 +43,7 @@ html, body {
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-color: grey;
+  background-color: white;
 }
 .background:nth-child(3) {
   background-image: url(https://hd.unsplash.com/photo-1436397543931-01c4a5162bdb);
