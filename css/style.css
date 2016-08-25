@@ -30,8 +30,11 @@ html, body {
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.3);
 }
+/* first-child https://hd.unsplash.com/photo-1452802447250-470a88ac82bc
+ 2nd https://hd.unsplash.com/photo-1465805466987-1a52c4976a92
+ */
 .background:first-child {
-  background-image: url(https://hd.unsplash.com/photo-1452802447250-470a88ac82bc);
+  background-image: url(https://hd.unsplash.com/photo-1465805466987-1a52c4976a92);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }
@@ -40,7 +43,7 @@ html, body {
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(https://hd.unsplash.com/photo-1465805466987-1a52c4976a92);
+  background-color: grey;
 }
 .background:nth-child(3) {
   background-image: url(https://hd.unsplash.com/photo-1436397543931-01c4a5162bdb);
@@ -131,4 +134,9 @@ html, body {
 /* The finishing CSS styles for the enter animation */
 .fade.ng-enter.ng-enter-active {
   opacity:1;
+}
+
+.listStyle{
+
+  font-family: fantasy;
 }
