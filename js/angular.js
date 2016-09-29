@@ -10,8 +10,3 @@ angular.module('directoryApp', [])
           {name:'Jacob', age: 24, img:'http://lorempixel.com/400/200/'}
           ]
        });
-
-
-$(document).ready(function() {
-  alert('yours');
-});

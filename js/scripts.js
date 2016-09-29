@@ -1,2 +1,3 @@
-require('./angular.js');
-require('./module2.js');
+const angular = require('./angular');
+const jquery = require('./jquery');
+const bootstrap = require('../node_modules/bootstrap/dist/js/bootstrap.min.js');

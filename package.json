@@ -18,6 +18,7 @@
   "homepage": "https://github.com/pyramidg/12#readme",
   "devDependencies": {
     "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
     "jquery": "^3.1.1",
     "webpack": "^1.13.2"
   },
