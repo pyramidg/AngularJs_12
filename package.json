@@ -1,0 +1,22 @@
+{
+  "name": "12",
+  "version": "1.0.0",
+  "description": "Angular webapp using angular anamitions.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyramidg/12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyramidg/12/issues"
+  },
+  "homepage": "https://github.com/pyramidg/12#readme",
+  "devDependencies": {
+    "angular": "^1.5.8"
+  }
+}
