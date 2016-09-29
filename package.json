@@ -2,7 +2,7 @@
   "name": "12",
   "version": "1.0.0",
   "description": "Angular webapp using angular anamitions.",
-  "main": "webpack.config.js",
+  "main": "scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/pyramidg/12#readme",
   "devDependencies": {
-    "angular": "^1.5.8"
-  }
+    "angular": "^1.5.8",
+    "jquery": "^3.1.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {}
 }
